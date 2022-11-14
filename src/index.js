@@ -11,7 +11,6 @@ root.render(
   </React.StrictMode>
 );
 
-t. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
 
 
